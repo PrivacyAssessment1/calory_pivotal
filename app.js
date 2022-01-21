@@ -14,7 +14,7 @@ const StorageCtrl = (function(){
     }
 })();
 
-// Item Controller
+// Item Controller Is Ok
 const ItemCtrl = (function(){
     // Item Constructor
     const Item = function(id, name, calories){
